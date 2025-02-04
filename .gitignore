@@ -1,3 +1,13 @@
+# Generated files
+d_n.txt
+e_n.txt
+message1.txt.signed
+message2.txt.signed
+p_q.txt
+
+# Project Instructions
+Algorithms_P1_2025.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
